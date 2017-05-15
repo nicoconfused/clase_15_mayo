@@ -11,7 +11,7 @@ $descripcion = "De qué forma el Diseño Gráfico influye en la animación: comp
 <title><?php echo($title);?></title>
 <!--acá vamos a meter varios metadatos-->
 <meta name="description" content="<?php echo($descripcion);?>">
-<link href="https://fonts.googleapis.com/css?family=Archivo+Black" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
 <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 <link href="bootstrap/style.css" rel="stylesheet">
 <!--[if lt IE 9]>
